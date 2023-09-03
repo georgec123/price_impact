@@ -1,0 +1,8 @@
+Ticker,FUT_TRADING_HRS,TIME_ZONE_NUM,FUT_TICK_SIZE,bst_offset,bbg_code,tick_code,future_months,roll_lookback_weeks,expiry_rule,description,asset_class
+C A Comdty,01:00-19:20,-5,0.25,0,C Comdty,CN,"['H', 'K', 'N', 'Z']",3,,Corn Futures,Grain Futures
+G A Comdty,08:00-18:00,1,0.01,0,G Comdty,GL,"['H', 'M', 'U', 'Z']",3,,Long Gilt Futures,Interest Rate Futures
+ESA Index,23:00-22:00,-5,0.25,1,ESIndex,ES,"['H', 'M', 'U', 'Z']",1,,S&P 500 E-Mini Futures,Equity Index Futures
+GCA Comdty,23:00-22:00,-4,0.1,1,GCComdty,GC,"['G', 'J', 'M','Q',  'Z']",3,,Gold Futures COMEX,Metal Futures
+CLA Comdty,23:00-22:00,-4,0.01,1,CLComdty,CL,"['F', 'G', 'H', 'J', 'K', 'M', 'N', 'Q', 'U', 'V', 'X', 'Z']",4.5,,Light Crude Oil Futures NYMEX,Energy Futures
+TUA Comdty,23:00-22:00,-5,0.003906,1,TUComdty,TU,"['H', 'M', 'U', 'Z']",3,,US 2-Year T-Note Futures,Interest Rate Futures
+NQA Index,23:00-22:00,-5,0.25,1,NQIndex,NQ,"['H', 'M', 'U', 'Z']",1,,NASDAQ 100 E-Mini Futures,Equity Index Futures

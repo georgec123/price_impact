@@ -1,0 +1,11 @@
+*.pickle
+*.pkl
+*.zst
+db/**/bins/**
+__pycache__
+*.pyc
+venv/**
+build/*
+*.pyd
+*.egg-info
+*.c
